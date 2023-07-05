@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **DSA,Web Development**
 
-- 👯 I’m looking to collaborate on **interesting project ideas**
-
-- 🤝 I’m looking for help with **Competitive programming**
+- 👯 Looking to collaborate on **interesting project ideas**
 
 - 📫 How to reach me **supratimdebshan@gmail.com**
 
